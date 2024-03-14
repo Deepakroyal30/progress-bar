@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  padding: 50px;
+}
+
+.progress-bar-container {
+  width: 500px;
+  height: 20px;
+  /* border: 1px solid #ccc; */
+  border-radius: 10px;
+  margin: 0 auto;
+  background-color:#ccc ;
+}
+
+.progress-bar {
+  height: 100%;
+  border-radius: 10px;
+  background-color: #00c251; /* Blue */
+  transition: all 0.3s ease-in-out;
+}
